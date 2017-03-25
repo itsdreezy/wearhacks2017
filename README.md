@@ -4,7 +4,7 @@ To-do (in order of increasing difficulty):
 
 -display a rectangle with text on it in unity
 
--Display someone's Google calendar/to-do list in a 3D space
+-Display someone's Google calendar (NICE TO HAVE)/to-do list in a 3D space
 
   -use google calendar API to display events on someone's calendar on a computer in C#
   
